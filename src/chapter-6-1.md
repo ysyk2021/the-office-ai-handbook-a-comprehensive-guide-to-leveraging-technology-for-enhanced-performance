@@ -35,4 +35,4 @@ Some examples of AI-enabled decision support systems include:
 Conclusion
 ----------
 
-AI-enabled decision support systems are transforming the office environment, enhancing accuracy and reliability, increasing efficiency, and driving data-driven decision-making. As these systems become more advanced and prevalent, they will continue to improve office productivity and performance. In the next chapter, we will explore how AI-powered optimization and innovation tools can further enhance operational efficiency and performance in the workplace.
+AI-enabled decision support systems are transforming the office environment, enhancing accuracy and reliability, increasing efficiency, and driving data-driven decision-making. As these systems become more advanced and prevalent, they will continue to improve office productivity and performance.
