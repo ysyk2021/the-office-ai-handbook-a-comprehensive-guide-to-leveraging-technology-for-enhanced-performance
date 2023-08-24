@@ -1,5 +1,3 @@
-Basic Concepts and Processes of AI Algorithms for Office Automation and Optimization
-=======================================================================================================================================================
 
 AI technology is rapidly transforming office workflows, but understanding its basic concepts and processes is essential for effective implementation. In this chapter, we will explore the fundamental concepts and processes of AI algorithms for office automation and optimization.
 

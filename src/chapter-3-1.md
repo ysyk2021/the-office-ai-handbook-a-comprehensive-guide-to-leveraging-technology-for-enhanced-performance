@@ -1,5 +1,3 @@
-Identifying Your Office Goals and Objectives for Optimal Performance and Efficiency
-===============================================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize office workflows, but in order to achieve optimal performance and efficiency, it is important to identify your office goals and objectives for AI implementation. In this chapter, we will explore how to identify and prioritize your office goals and objectives for AI-enabled workflow enhancement.
 

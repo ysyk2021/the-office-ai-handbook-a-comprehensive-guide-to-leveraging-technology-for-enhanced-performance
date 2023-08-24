@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Office Productivity and Performance
-=============================================================================
 
 As businesses continue to implement AI-enabled tools and technologies in the office environment, it's essential to evaluate their impact on productivity and performance. In this chapter, we will explore some key strategies for evaluating the effectiveness of AI implementation in office practice.
 

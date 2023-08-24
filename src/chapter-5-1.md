@@ -1,5 +1,3 @@
-Enhancing Collaboration and Communication with AI-Enabled Social Networking and Video Conferencing
-===============================================================================================================================================================
 
 Effective collaboration and communication are essential for office performance, particularly in today's globalized and remote work environment. Artificial intelligence (AI) can play a significant role in improving these aspects of the workplace, through AI-enabled social networking and video conferencing tools.
 

@@ -1,5 +1,3 @@
-Improving Accuracy and Reliability of Office Tasks and Decisions with AI-Enabled Decision Support
-=====================================================================================================================================================================
 
 Artificial Intelligence (AI) has become an essential tool for improving the accuracy and reliability of office tasks and decisions. In this chapter, we will explore how AI-powered decision support systems are revolutionizing workflows and enhancing productivity in the office environment.
 

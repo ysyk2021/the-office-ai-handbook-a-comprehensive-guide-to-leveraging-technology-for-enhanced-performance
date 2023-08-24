@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for the Office Environment
-=================================================================
 
 Basic Concepts and Processes of AI Algorithms for Office Automation and Optimization
 ------------------------------------------------------------------------------------

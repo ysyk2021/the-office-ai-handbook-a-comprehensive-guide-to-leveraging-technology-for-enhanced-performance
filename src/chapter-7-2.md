@@ -1,5 +1,3 @@
-Identifying Key Performance Metrics and Goals for AI-Enabled Office Workflow Optimization
-========================================================================================================================================================================
 
 As more businesses adopt AI technology to optimize office workflows, it is essential to evaluate the impact of these tools on productivity and performance. In this chapter, we will explore how to identify key performance metrics and goals for AI-enabled office workflow optimization.
 

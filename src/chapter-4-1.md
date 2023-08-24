@@ -1,5 +1,3 @@
-Automating Repetitive Tasks and Workflows with AI-Enabled Process Automation and Robotic Process Automation (RPA)
-=================================================================================================================================================================================
 
 Repetitive tasks and workflows can take up a significant amount of an employee's time, leading to reduced productivity and job satisfaction. Luckily, artificial intelligence (AI) can help automate these tasks through AI-enabled process automation and robotic process automation (RPA). In this chapter, we will explore these techniques and their benefits for office automation and enhancement.
 

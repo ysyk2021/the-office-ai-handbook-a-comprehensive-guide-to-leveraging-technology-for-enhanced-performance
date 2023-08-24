@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enabled Office Workflow
-==========================================================
 
 The integration of artificial intelligence (AI) can enhance office workflow by streamlining processes, improving accuracy and boosting productivity. To get started with AI, it is important to first identify your office goals and objectives, select the right tools and platforms, and create a customized roadmap for implementation.
 

@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Office Workflow Management and Improvement
-===================================================================================================================================================================
 
 Artificial intelligence (AI) technology has revolutionized office automation and optimization, offering a wide range of applications to enhance office workflow management and performance. In this chapter, we will explore different types of AI techniques and their applications in the office environment.
 

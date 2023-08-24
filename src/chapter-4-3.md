@@ -1,5 +1,3 @@
-Optimizing Task Assignment and Time Management with AI-Enabled Predictive Analytics and Scheduling
-==================================================================================================================================================================
 
 One of the key benefits of artificial intelligence (AI) in the office is its ability to automate routine tasks and streamline workflows. In this chapter, we will explore how businesses can leverage AI-enabled predictive analytics and scheduling to optimize task assignment and time management in the office.
 
