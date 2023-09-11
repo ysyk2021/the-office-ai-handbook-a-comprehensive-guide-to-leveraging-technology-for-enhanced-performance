@@ -1,5 +1,4 @@
-Chapter: Optimizing Task Assignment and Time Management with AI-Enabled Predictive Analytics and Scheduling
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

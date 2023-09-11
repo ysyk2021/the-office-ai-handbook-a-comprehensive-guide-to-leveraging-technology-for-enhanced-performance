@@ -1,5 +1,4 @@
-Chapter: Identifying Key Performance Metrics and Goals for AI-Enabled Office Workflow Optimization
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
